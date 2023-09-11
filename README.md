@@ -1,1 +1,5 @@
-# pearlinsamjinoj
+- 👋 Hi, I’m pearlin sam jinoj
+- 👀 I’m interested in R programming
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Ecosystem Programming
+- 📫 How to reach me ...
